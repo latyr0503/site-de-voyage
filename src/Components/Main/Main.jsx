@@ -4,14 +4,14 @@ import { GoLocation } from 'react-icons/go'
 import { FaClipboardList } from 'react-icons/fa'
 
 import img1 from "../../media/image1.jpg"
-import img2 from "../../media/image1.jpg"
-import img3 from "../../media/image1.jpg"
-import img4 from "../../media/image1.jpg"
-import img5 from "../../media/image1.jpg"
-import img6 from "../../media/image1.jpg"
-import img7 from "../../media/image1.jpg"
-import img8 from "../../media/image1.jpg"
-import img9 from "../../media/image1.jpg"
+import img2 from "../../media/image2.jpg"
+import img3 from "../../media/image3.jpg"
+import img4 from "../../media/image4.jpg"
+import img5 from "../../media/image5.jpg"
+import img6 from "../../media/image6.jpg"
+import img7 from "../../media/image7.jpg"
+import img8 from "../../media/image8.jpg"
+import img9 from "../../media/image9.jpg"
 
 import Aos from "aos"
 import "aos/dist/aos.css"
@@ -31,53 +31,53 @@ const Main = () => {
     {
       id: 2,
       imgSrc: img2,
-      desTitle: "dakar",
+      desTitle: "Petit Mbao",
       location: 'Sénégal',
       grade: 'CULTURAL RELAX',
-      fess: "$800",
+      fess: "$1200",
       description: 'Lorem ipsum dolor sit amet, coo velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est.'
 
     },
     {
       id: 3,
       imgSrc: img3,
-      desTitle: "dakar",
-      location: 'Sénégal',
+      desTitle: "Banjul",
+      location: 'Gambie',
       grade: 'CULTURAL RELAX',
-      fess: "$700",
+      fess: "$500",
       description: 'Lorem ipsum dolor sit amet, coo velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est.'
     },
     {
       id: 4,
       imgSrc: img4,
-      desTitle: "dakar",
-      location: 'Sénégal',
+      desTitle: "Nouadhiboou",
+      location: 'Mauritanie',
       grade: 'CULTURAL RELAX',
-      fess: "$700",
+      fess: "$650",
       description: 'Lorem ipsum dolor sit amet, coo velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est.'
     },
     {
       id: 5,
       imgSrc: img5,
-      desTitle: "dakar",
+      desTitle: "Saly",
       location: 'Sénégal',
       grade: 'CULTURAL RELAX',
-      fess: "$700",
+      fess: "$900",
       description: 'Lorem ipsum dolor sit amet, coo velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est.'
     },
     {
       id: 6,
       imgSrc: img6,
-      desTitle: "dakar",
+      desTitle: "Niokolo-koba",
       location: 'Sénégal',
       grade: 'CULTURAL RELAX',
-      fess: "$700",
+      fess: "$850",
       description: 'Lorem ipsum dolor sit amet, coo velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est.'
     },
     {
       id: 7,
       imgSrc: img7,
-      desTitle: "dakar",
+      desTitle: "Parc Hanne",
       location: 'Sénégal',
       grade: 'CULTURAL RELAX',
       fess: "$700",
@@ -86,19 +86,19 @@ const Main = () => {
     {
       id: 8,
       imgSrc: img8,
-      desTitle: "dakar",
+      desTitle: "Saint Louis",
       location: 'Sénégal',
       grade: 'CULTURAL RELAX',
-      fess: "$700",
+      fess: "$400",
       description: 'Lorem ipsum dolor sit amet, coo velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est.'
     },
     {
       id: 9,
       imgSrc: img9,
-      desTitle: "dakar",
+      desTitle: "Kédougou",
       location: 'Sénégal',
       grade: 'CULTURAL RELAX',
-      fess: "$700",
+      fess: "$600",
       description: 'Lorem ipsum dolor sit amet, coo velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est.'
     },
   ]
